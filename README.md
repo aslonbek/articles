@@ -1,1 +1,1 @@
-# articles
+# education_articles
